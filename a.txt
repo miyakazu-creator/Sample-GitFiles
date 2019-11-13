@@ -1,0 +1,15 @@
+aaaaaa
+
+あいうえお
+
+かきくけこ
+
+さしすせそ
+
+<<<<<<< HEAD
+bbbbbb
+
+cccccc
+=======
+bbbbbb
+>>>>>>> ac49c8a... bを追加
